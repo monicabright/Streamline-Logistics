@@ -1,18 +1,27 @@
+# STREAMLINE LOGISTICS ORDER FULFILMENT
+### Real-Time Insight Into Delivery Performance and Customer Satisfaction
+
+## Project Background
+
 This report outlines the findings and operational strategies for Streamline Logistics Solutions, a logistics provider with over two decades of experience in nationwide delivery. The business relies on high-volume, dependable logistics; however, recent operational challenges; mounting order backlogs and rising expenses triggered a need for a data-driven review of the fulfillment process.
 This project was executed entirely within Microsoft Excel. The raw dataset was cleaned, normalized, and analyzed using Pivot Tables. The final output is an interactive Excel dashboard consisting of two primary views: Order Fulfillment and Resource Allocation.
-Insights and recommendations focus on these key areas:
+
+### Insights and recommendations focus on these key areas:
 •	Category 1: Delivery Performance & Delay Analysis
 •	Category 2: Resource & Driver Efficiency
 •	Category 3: Demand Patterns & Peak Hour Stress
 •	Category 4: Geographic & Routing Bottlenecks
-Data Structure & Initial Checks
+
+### Data Structure & Initial Checks
 The analysis was performed on a single comprehensive dataset containing 1,500 records. This table includes fields for Order IDs, timestamps, delivery zones, driver assignments, vehicle information, and customer feedback.
 To ensure accuracy, the data underwent a cleaning process to handle missing timestamps and standardize duration metrics (measured in minutes). Although stored in a single table, the data was organized logically to allow for the multi-page dashboard reporting.
-Executive Summary
-Overview of Findings
+
+## Executive Summary
+### Overview of Findings
 The fulfillment process is currently under significant strain, with 80.3% of orders experiencing delays and 33.3% categorized as backlogged. Analysis shows that the 10:00 AM peak hour is a critical breaking point where order volume outpaces driver availability. Furthermore, the operational underperformance of "Van A" and the inefficient use of "Expedited" rules are primary contributors to the current 32.07% customer satisfaction score.
 [Dashboard Page 1: Order Fulfillment Trends & KPI Overview]
-Insights Deep Dive
+
+## Insights Deep Dive
 Category 1: Order Fulfillment (Dashboard Page 1)
 •	Systemic Delays: The data confirms that 80.33% of orders are delayed by more than 5 minutes. This is not isolated to a single region but is a broad operational failure that directly impacts the bottom line.
 •	The Backlog Reality: One-third of all orders (33.33%) are currently backlogged. These are defined as orders still in progress with a delay exceeding 10 minutes, creating a "clog" in the system that impacts subsequent delivery windows.
