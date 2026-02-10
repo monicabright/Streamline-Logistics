@@ -22,8 +22,9 @@ The fulfillment process is currently under significant strain, with 80.3% of ord
 
 ![](https://github.com/monicabright/Streamline-Logistics/blob/main/Stream3.png)
 
-![](https://github.com/monicabright/Streamline-Logistics/blob/main/Stream4.png)
+![](https://github.com/monicabright/Streamline-Logistics/blob/main/Stream5.jpg)
 
+An interactive Excel dashboard used to report and explore order fulfillment and resource allocation trends can be found [here](https://github.com/monicabright/Streamline-Logistics/blob/main/Streamline%20Logistics%20Dashboard.xlsx)
 
 ## Insights Deep Dive
 ### Category 1: Order Fulfillment
