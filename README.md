@@ -19,7 +19,7 @@ To ensure accuracy, the data underwent a cleaning process to handle missing time
 ## Executive Summary
 ### Overview of Findings
 The fulfillment process is currently under significant strain, with 80.3% of orders experiencing delays and 33.3% categorized as backlogged. Analysis shows that the 10:00 AM peak hour is a critical breaking point where order volume outpaces driver availability. Furthermore, the operational underperformance of "Van A" and the inefficient use of "Expedited" rules are primary contributors to the current 32.07% customer satisfaction score.
-[Dashboard Page 1: Order Fulfillment Trends & KPI Overview]
+![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Customer%20Analysis%20Afritech.png)
 
 ## Insights Deep Dive
 ### Category 1: Order Fulfillment
